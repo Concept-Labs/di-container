@@ -1,2 +1,2 @@
-# di-container
-DI Container (PSR-11
+# container
+PSR 11 Container
